@@ -47,4 +47,4 @@ for t in range(1, 4):
             break
 
 best_score = max(scores)
-print("Your best score is: ", best_score)
+print("Best Score: ", best_score)
